@@ -1,0 +1,3 @@
+/home/nixiaowei/Desktop/msgpacktest/build/CMakeFiles/msgpacktest.dir
+/home/nixiaowei/Desktop/msgpacktest/build/CMakeFiles/edit_cache.dir
+/home/nixiaowei/Desktop/msgpacktest/build/CMakeFiles/rebuild_cache.dir
