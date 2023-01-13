@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/http_server.dir/http_server.cpp.o -o http_server   -L/home/nixiaowei/Desktop/testccs2/build  -Wl,-rpath,/home/nixiaowei/Desktop/testccs2/build:/usr/local/lib: /usr/local/lib/libPocoUtil.so.94 /usr/local/lib/libPocoNet.so.94 /usr/local/lib/libPocoXML.so.94 /usr/local/lib/libPocoJSON.so.94 /usr/local/lib/libPocoFoundation.so.94 -lpthread -ldl -lrt 
